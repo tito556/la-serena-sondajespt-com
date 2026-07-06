@@ -1,0 +1,50 @@
+# Sondajespt — La Serena
+
+> Geotechnical engineering services in La Serena, Chile.
+
+## Services
+- [Aislacion Sismica](https://la-serena.sondajespt.com/aislacion-sismica/)
+- [Anclajes](https://la-serena.sondajespt.com/anclajes/)
+- [Calicatas Exploratorias](https://la-serena.sondajespt.com/calicatas-exploratorias/)
+- [Cbr Vial](https://la-serena.sondajespt.com/cbr-vial/)
+- [Cimentaciones](https://la-serena.sondajespt.com/cimentaciones/)
+- [Cimentaciones Superficiales](https://la-serena.sondajespt.com/cimentaciones-superficiales/)
+- [Columnas Grava](https://la-serena.sondajespt.com/columnas-grava/)
+- [Densidad Cono Arena](https://la-serena.sondajespt.com/densidad-cono-arena/)
+- [Ensayo Cpt](https://la-serena.sondajespt.com/ensayo-cpt/)
+- [Ensayo Triaxial](https://la-serena.sondajespt.com/ensayo-triaxial/)
+- [Estabilidad Taludes](https://la-serena.sondajespt.com/estabilidad-taludes/)
+- [Excavaciones Profundas](https://la-serena.sondajespt.com/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://la-serena.sondajespt.com/excavaciones-subterraneo/)
+- [Exploracion](https://la-serena.sondajespt.com/exploracion/)
+- [Geofisica](https://la-serena.sondajespt.com/geofisica/)
+- [Geotecnia Vial](https://la-serena.sondajespt.com/geotecnia-vial/)
+- [Granulometria](https://la-serena.sondajespt.com/granulometria/)
+- [Grouting](https://la-serena.sondajespt.com/grouting/)
+- [Laboratorio In Situ](https://la-serena.sondajespt.com/laboratorio-in-situ/)
+- [Laboratorio Lab](https://la-serena.sondajespt.com/laboratorio-lab/)
+- [Licuefaccion](https://la-serena.sondajespt.com/licuefaccion/)
+- [Limites Atterberg](https://la-serena.sondajespt.com/limites-atterberg/)
+- [Losa De Cimentacion](https://la-serena.sondajespt.com/losa-de-cimentacion/)
+- [Masw Vs30](https://la-serena.sondajespt.com/masw-vs30/)
+- [Mejoramiento](https://la-serena.sondajespt.com/mejoramiento/)
+- [Microzonificacion Sismica](https://la-serena.sondajespt.com/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://la-serena.sondajespt.com/monitoreo-excavaciones/)
+- [Muros Contencion](https://la-serena.sondajespt.com/muros-contencion/)
+- [Pavimento Flexible](https://la-serena.sondajespt.com/pavimento-flexible/)
+- [Pavimento Rigido](https://la-serena.sondajespt.com/pavimento-rigido/)
+- [Permeabilidad Campo](https://la-serena.sondajespt.com/permeabilidad-campo/)
+- [Pilotes](https://la-serena.sondajespt.com/pilotes/)
+- [Resistividad Electrica Sev](https://la-serena.sondajespt.com/resistividad-electrica-sev/)
+- [Sismica](https://la-serena.sondajespt.com/sismica/)
+- [Taludes](https://la-serena.sondajespt.com/taludes/)
+- [Tomografia Sismica](https://la-serena.sondajespt.com/tomografia-sismica/)
+- [Tuneles Suelo Blando](https://la-serena.sondajespt.com/tuneles-suelo-blando/)
+- [Vibrocompactacion](https://la-serena.sondajespt.com/vibrocompactacion/)
+
+## Contact
+- Website: https://la-serena.sondajespt.com/
+
+## About
+This site provides geotechnical engineering services in La Serena, Chile.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
